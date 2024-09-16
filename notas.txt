@@ -1,0 +1,9 @@
+Navbar
+    logo da blendy
+    menus
+        why blendy?
+        our products
+        about us
+        contact
+
+
