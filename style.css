@@ -203,7 +203,7 @@ a{
 @media (max-width: 769px){
     main{
         width: 120vw;
-        height: 100vh;
+        height: 80vh;
     }
 
     .navbar{
