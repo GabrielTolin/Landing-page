@@ -204,7 +204,7 @@ a{
     }
 
     #produto{
-        width: 50vw;
+        width: 45vw;
     }
 
 
@@ -241,7 +241,7 @@ a{
     }
 
     .box-tx{
-        margin-left: 10vw;
+        margin-left: 0vw;
         height: 60vh;
         width: 50vw;
     }
@@ -311,8 +311,11 @@ a{
 
 @media (max-width: 541px) {
     main{
-        margin-top: 50px;
         height: 120vh;
+    }
+
+    footer{
+        border: darkblue 1px solid;
     }
 
     .box-p{
@@ -331,14 +334,14 @@ a{
     }
 
     .box-tx{ 
-  
         height: 50vh;
         width: 89vw;
+        margin-left: auto;
     }
+    
     #produto{
-        width: 85vw;
-        height: 55vh;
-        margin-left: 0px;
+        width: 70vw;
+        height: 50vh;
         margin-top: 50px;
     }
 
@@ -354,10 +357,14 @@ a{
 
 
 
-@media (max-width: 400px){
+@media (max-width: 420px){
     main{
         margin-top: 50px;
-        height: 140vh;
+        height: 160%;
+    }
+
+    footer{
+        border: darkblue 1px solid;
     }
 
     .box-p{
@@ -375,7 +382,7 @@ a{
     }
 
     .box-tx{ 
-        height: 70vh;
+        height: 60vh;
         width: 70vw;
         margin-left: 0%;
         
